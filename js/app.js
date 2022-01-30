@@ -1,7 +1,6 @@
 'use strict';
 
 
-
 let Info = {
     FullName: ["Ghazi Samer", "Lana Ali", "Tamara Ayoub", "Safi Walid", "Omar Zaid", "Rana Saleh", "Hadi Ahmad"],
     Department: ["Administration", "Finance", "Marketing", "Administration", "Development", "Development", "Finance"],
